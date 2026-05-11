@@ -6,7 +6,7 @@ const HomePage = () => {
         <div style={{ padding: 20 }}>
             <Result
                 icon={<CrownOutlined />}
-                title="JSON Web Token (React/Node.JS) - Nguyễn Hoàng Phúc"
+                title="JSON Web Token (React/Node.JS) - Nguyễn Hoàng Phúc - 23110287"
             />
         </div>
     )
